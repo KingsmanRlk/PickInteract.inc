@@ -436,10 +436,8 @@ AddPickupInteract(1274,  x,  y, z, "E", "#4CAF50", 4.0);
 ## 👤 Créditos
 
 **PickInteract Include**
-**Colaboradores
-Kingsman Rlk
-MMV-DEV
-**
+
+Colaboradores: Kingsman Rlk & MMV-DEV
 
 Biblioteca desenvolvida para projetos **SA-MP / open.mp**, com foco em
 performance, modularidade e interações orientadas a eventos.
