@@ -1,0 +1,31 @@
+PICKINTERACT.INC
+Copyright (c) 2026 kingsman rlk
+
+Permission is hereby granted to use, copy, modify, and distribute this
+software for personal or commercial SA-MP/open.mp projects, provided that
+the original author credit is not removed.
+
+You are free to:
+
+- Use this include in your projects.
+- Modify the source code.
+- Use it in personal or commercial servers.
+- Distribute modified versions.
+
+Conditions:
+
+- The original author, "kingsman rlk", must remain credited.
+- Do not claim the original source code as your own.
+- Do not remove or alter the original copyright notice.
+- Modified versions should clearly indicate that changes were made.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR
+SHALL NOT BE LIABLE FOR ANY DAMAGE OR ISSUES CAUSED BY THE USE OF THIS
+SOFTWARE.
+
+---
+
+PickInteract.inc 0.0.2
+Created by kingsman rlk
+
+"Giving up is not part of the dream."
